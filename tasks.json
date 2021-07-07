@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Auto clearing mode",
+    "image_sequence": [
+      "1280x720/stage_end_continue.png"
+    ]
+  },
+  {
+    "name": "Collect oil and coins",
+    "image_sequence": [
+      "1280x720/hq.png",
+      "1280x720/academy.png",
+      "1280x720/academy_coins.png",
+      "1280x720/academy_oil.png",
+      "1280x720/android_back.png"
+    ]
+  },
+  {
+    "name": "Conduct 1 exercise",
+    "image_sequence": [
+      "1280x720/battle.png",
+      "1280x720/exercises.png",
+      "1280x720/ex1.png",
+      "1280x720/ex2.png",
+      "1280x720/ex3.png",
+      "1280x720/ex_back.png",
+      "1280x720/battle_back.png"
+    ]
+  },
+  {
+    "name": "Build 1 ship",
+    "image_sequence": [
+      "1280x720/build1.png",
+      "1280x720/build2.png",
+      "1280x720/build_finish.png",
+      "1280x720/ship_build_star.png",
+      "1280x720/android_back.png"
+    ]
+  },
+  {
+    "name": "Restock snacks in your dorm 1 time",
+    "image_sequence": [
+      "1280x720/hq.png",
+      "1280x720/dorm.png",
+      "1280x720/supplies.png",
+      "1280x720/drank.png",
+      "1280x720/android_back.png",
+      "1280x720/dorm_back.png"
+    ]
+  },
+  {
+    "name": "Contribute 1 time to your Guild Logistics",
+    "image_sequence": [
+      "1280x720/guild.png",
+      "1280x720/logistics.png",
+      "1280x720/exchange.png",
+      "1280x720/guild_back.png"
+    ]
+  },
+  {
+    "name": "***Claim victory 3 times",
+    "image_sequence": [
+      "1280x720/battle.png",
+      "1280x720/campaign.png",
+      "1280x720/any_stage.png",
+      "1280x720/stage_start.png",
+      "1280x720/stage_start2.png",
+      "1280x720/stage_exit.png",
+      "1280x720/android_back.png",
+      "1280x720/battle_back.png"
+    ]
+  },
+  {
+    "name": "***Attempt 1 daily challenge",
+    "image_sequence": []
+  },
+  {
+    "name": "***Sortie and clear 1 Hard Mode Stage",
+    "image_sequence": []
+  },
+  {
+    "name": "***Sortie and obtain 1 victory in Operation Siren",
+    "image_sequence": []
+  },
+  {
+    "name": "***Complete 1 Research Project",
+    "image_sequence": []
+  },
+  {
+    "name": "***Complete 1 commissions",
+    "image_sequence": []
+  }
+]

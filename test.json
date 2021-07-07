@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Collect oil and coins",
+    "image_sequence": [
+      "1280x720/hq.png",
+      "1280x720/academy.png",
+      "1280x720/academy_coins.png",
+      "1280x720/academy_oil.png",
+      "1280x720/academy_back.png"
+    ]
+  }
+]
